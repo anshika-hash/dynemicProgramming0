@@ -10,8 +10,8 @@ public class Main
              return;
          }
           i++;
-          binery( num,  str+'0', i);
-          binery( num,  str+'1', i);
+          binary( num,  str+'0', i);
+          binary( num,  str+'1', i);
           
          
     }
